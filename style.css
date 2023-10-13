@@ -1,0 +1,32 @@
+body {
+    background-color: yellowgreen;
+}
+
+
+
+h1 {
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orangered;
+}
+
+
+ol , ul {
+    font-size: large;
+    color: white;
+    
+}
